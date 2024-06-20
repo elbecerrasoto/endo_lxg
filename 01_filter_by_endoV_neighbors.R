@@ -14,4 +14,3 @@ neigh_endo |>
   unique() |>
   sort() |>
   write_lines("pids_endo_neigh.txt")
-
